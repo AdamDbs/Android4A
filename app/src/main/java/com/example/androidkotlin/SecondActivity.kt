@@ -11,7 +11,7 @@ class SecondActivity : AppCompatActivity() {
 
         val actionBar = supportActionBar
         if(actionBar != null){
-            actionBar.title = "Second activity"
+            actionBar.title = "POKEMON LIST"
             actionBar.setDisplayHomeAsUpEnabled(true)
         }
     }
